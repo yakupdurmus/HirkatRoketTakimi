@@ -1,1 +1,84 @@
-<mxfile modified="2019-03-07T19:14:50.407Z" host="www.draw.io" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36" etag="o3uRofMQjdvnf7yJ3vR5" version="10.3.6" type="github"><diagram id="dz1NT8YJN7HHtKXdm0w7" name="Page-1">5Vptc6o4FP41fmyHQAj40Vrbzu52prPeO3f7MZWIrEjcEKvcX7+JJLyFWnuLxfbamUpOXgjn5XlODg6c8Wp3y/B6cU8DEg9sK9gNnOuBbfvQEv+lIMsFELq5IGRRkItAKZhGP4kSqnnhJgpIWhvIKY15tK4LZzRJyIzXZJgxuq0Pm9O4ftc1DokhmM5wbEp/RAFfqMeyvVJ+R6Jwoe8M0DDvWWE9WD1JusAB3VZEzmTgjBmlPL9a7cYklrrTesnn3bzQW2yMkYQfMwGRP3YP335+n88n8M/FBfrxHXkXapVnHG/UA6vN8kxrgNFNEhC5iDVwrraLiJPpGs9k71aYXMgWfBWLFhCX8yiOxzSmbD/XmbvyT8hTzuiSVHrQ/iNn0IRX5PlHyNXGCONk9+ITg0KPwv8IXRHOMjFETbAdZYtM+5RaYlta0vGUeRYVK7piB7kHKe8Ji7VLBYsLpeM36Ntu0TeKudJDTfHovw3VHRfpPjBGYgDw17uyU1yF8vsvStei84YmyzTKaLLRy4pd5ivn4wzrCu3yugnrpkpoQhp2VSIcR2EimjNhDSLkV9JWkYickepYRUEgb9PqM3Wv6sLYENSM7VuGrYHGnqqtdXh2bmrH0DUJBLSoJmV8QUOa4HhSShtaKcfszZub51/CeaZwEm84rRuP7CL+j5x+6arWY6XneqdW3jcy3UjE41YmyeZjta+ctm9lNaPJhzpsMqEDumEzckBXUCE7ZiHhh+DqBR9gJMY8eq5vpHOLQiN47+9HPnTF/SxhbWuyTEkivm8zRsXXlCTpYOwMrhDbf43l+sLMtvWYi+XYO5LidYxX+H2420UAeXW0FOh56ZoxBDwzhjx4Io27fcYQqERQGU/tMdRhLKAjY8F/Zyjsp44Yw1llwJpGCU8rKz9IQekkLiqcQrmJ6/lKcnP0HGCjV+Y4jvfaHHGR7/7oFaBeoXjcXMlqZsNXC53+uvsiAzC+kZjIVaMCC7DEgpE3GMPBFYglDlhPURxGaZTIQZmgVjE05TjlgtYT2R8q+AhkX8+o4biGQ0DfRA27JctCp2Je77Mwb4eo4R+JGrBPAvWNeLh9mOpIyPPVJ6ZT1Zwkx4JTl3G0FKOuiQyS4Q2R0dM3WfpOE11c83ABrBayPJnbD3t1+zeQZZlw1tLNMvs8fcIJdC3h1YzT64JmDXayUT3ZgkN0FDO9la8Lb1P3cYb+Qd5tjtf7auXcrmhS13rOP837VJ7bK9TrbVaw3gB0gfR4JbF5j/yO5aKVSQPFoPy/2WyM/5suCa+esfTR61pdjV3JIVnbnZqksqCrp036MYSC3AahOI7bdv6C0KQUYJ/qAAbMeuCZ5lJnUMUAx5YxKvXfPkKz38rUl7Qo6iJLeCu5wyZZO4fJHdoHx5+I3M2q2StEAIfD35cHoH6zVLAA6p0DXMOCk2fCDTV9nVcJbiM5t60WJoYtJY2TvUwA6POlyJd2b7DtfRBsv8+mnhFX4FK0HzDDOTrlSMUL6BqpWuEZVD/qAeJ5JkhZLS/bFOGcQJdmaelOMNm+qGoWSb8MUkHLbp4akFl9/Vik6rcM9WsnBq8vpNJmOG+k0rusRJf9OZBKpLiNAIFe67EatMSI/vlI9/o0iyNfO6OCboMw3N4zKtv+PRkDNMIBtL3l78gSoln+vi0/UJY/EnQm/wM=</diagram></mxfile>
+<mxfile modified="2020-03-11T21:17:39.064Z" host="www.draw.io" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.132 Safari/537.36" etag="4clcvY6Psnxtjim6xSkX" version="12.8.3" type="github">
+  <diagram id="dz1NT8YJN7HHtKXdm0w7" name="Page-1">
+    <mxGraphModel dx="1021" dy="521" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="6eJxPTzUffE4Kh-6WU67-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
+          <mxGeometry x="239" y="101" width="521" height="533" as="geometry" />
+        </mxCell>
+        <mxCell id="6eJxPTzUffE4Kh-6WU67-2" value="&lt;span style=&quot;font-size: 18px&quot;&gt;Arduino Nano Aviyonik Loop Fonksiyonu&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="241" y="80" width="339" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="-75Nt-psEy_kDfa3PhSn-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="6eJxPTzUffE4Kh-6WU67-6" target="6eJxPTzUffE4Kh-6WU67-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6eJxPTzUffE4Kh-6WU67-6" value="Telemetri ile açılma bilgisini yer istastonuna gönder" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="359.5" y="548" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-75Nt-psEy_kDfa3PhSn-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="6eJxPTzUffE4Kh-6WU67-8" target="-75Nt-psEy_kDfa3PhSn-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6eJxPTzUffE4Kh-6WU67-8" value="GPS ve Jroskop Modülü ile Yükseklik, Lokasyon,&lt;br&gt;Yön Bilgisi" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="640" y="140" width="107" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="6eJxPTzUffE4Kh-6WU67-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="6eJxPTzUffE4Kh-6WU67-11" target="6eJxPTzUffE4Kh-6WU67-17" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="269" y="496" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="260" y="398" />
+              <mxPoint x="260" y="496" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6eJxPTzUffE4Kh-6WU67-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="6eJxPTzUffE4Kh-6WU67-11" target="6eJxPTzUffE4Kh-6WU67-14" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6eJxPTzUffE4Kh-6WU67-11" value="Yükseklik &amp;lt;3000m&lt;br&gt;&amp;amp;&amp;amp;&lt;br&gt;Roket Yönü Düşey" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="265.5" y="335.5" width="144" height="124" as="geometry" />
+        </mxCell>
+        <mxCell id="6eJxPTzUffE4Kh-6WU67-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="6eJxPTzUffE4Kh-6WU67-14" target="6eJxPTzUffE4Kh-6WU67-20" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6eJxPTzUffE4Kh-6WU67-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="6eJxPTzUffE4Kh-6WU67-14" target="6eJxPTzUffE4Kh-6WU67-6" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="460" y="438" />
+              <mxPoint x="420" y="438" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6eJxPTzUffE4Kh-6WU67-14" value="Yükseklik &amp;lt;499m&lt;br&gt;&amp;amp;&amp;amp;&lt;br&gt;Roket Yönü Düşey&lt;br&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="427" y="336" width="144" height="124" as="geometry" />
+        </mxCell>
+        <mxCell id="6eJxPTzUffE4Kh-6WU67-15" value="Evet" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="259" y="420.5" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6eJxPTzUffE4Kh-6WU67-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" parent="1" source="6eJxPTzUffE4Kh-6WU67-17" target="6eJxPTzUffE4Kh-6WU67-6" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6eJxPTzUffE4Kh-6WU67-17" value="1. Paraşütü Aç" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="283" y="477" width="105" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="6eJxPTzUffE4Kh-6WU67-18" value="Hayır" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="402.5" y="368" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6eJxPTzUffE4Kh-6WU67-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" parent="1" source="6eJxPTzUffE4Kh-6WU67-20" target="6eJxPTzUffE4Kh-6WU67-6" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6eJxPTzUffE4Kh-6WU67-20" value="2. Paraşütü Aç" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="438.5" y="475.5" width="110" height="39" as="geometry" />
+        </mxCell>
+        <mxCell id="6eJxPTzUffE4Kh-6WU67-21" value="Evet" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="453" y="450.5" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6eJxPTzUffE4Kh-6WU67-22" value="Hayır" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="415" y="419.5" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="-75Nt-psEy_kDfa3PhSn-3" value="Maks İrtifa &amp;lt; Okunan Yükseklik" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="520" y="140" width="80" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
