@@ -1,56 +1,56 @@
-<mxfile modified="2020-03-13T17:25:49.433Z" host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.132 Safari/537.36" etag="MWM_EX4iSpEkpkL-sUSU" version="12.8.4" type="github">
+<mxfile modified="2020-03-13T17:28:10.291Z" host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.132 Safari/537.36" etag="uQqHqknpZDhx2DgH6wSD" version="12.8.4" type="github">
   <diagram id="-InX6ZEcCLOeVuzZx66c" name="Page-1">
-    <mxGraphModel dx="1447" dy="820" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1365" dy="580" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="A5EIsB_AYLO5j_VOn1XA-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="518" y="478" />
+              <mxPoint x="373" y="668" />
             </Array>
-            <mxPoint x="518" y="360" as="sourcePoint" />
-            <mxPoint x="530" y="478" as="targetPoint" />
+            <mxPoint x="373" y="550" as="sourcePoint" />
+            <mxPoint x="385" y="668" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="A5EIsB_AYLO5j_VOn1XA-41" value="Evet" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="490" y="339" width="40" height="20" as="geometry" />
+          <mxGeometry x="345" y="529" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="cHAEwdfpiLkEljMpGPID-2" value="&lt;font style=&quot;font-size: 18px&quot;&gt;Yedek - Loop Fonksiyonu&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="574" y="60" width="206" height="20" as="geometry" />
+          <mxGeometry x="429" y="250" width="206" height="20" as="geometry" />
         </mxCell>
         <mxCell id="cHAEwdfpiLkEljMpGPID-29" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
-          <mxGeometry x="574" y="80" width="354" height="565.5" as="geometry" />
+          <mxGeometry x="429" y="270" width="354" height="565.5" as="geometry" />
         </mxCell>
         <mxCell id="cHAEwdfpiLkEljMpGPID-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="cHAEwdfpiLkEljMpGPID-32" target="cHAEwdfpiLkEljMpGPID-39">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="cHAEwdfpiLkEljMpGPID-32" value="MMA8451 3 Eksen Gyro Sensörü ile ivme" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="595.75" y="243" width="153.5" height="50" as="geometry" />
+          <mxGeometry x="450.75" y="433" width="153.5" height="50" as="geometry" />
         </mxCell>
         <mxCell id="cHAEwdfpiLkEljMpGPID-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="cHAEwdfpiLkEljMpGPID-34" target="cHAEwdfpiLkEljMpGPID-36">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="895" y="590" as="targetPoint" />
+            <mxPoint x="750" y="780" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="914" y="590" />
-              <mxPoint x="914" y="110" />
-              <mxPoint x="672" y="110" />
+              <mxPoint x="769" y="780" />
+              <mxPoint x="769" y="300" />
+              <mxPoint x="527" y="300" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="cHAEwdfpiLkEljMpGPID-34" value="Toplanan verileri Yer istasyonuna gönder" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="694.5" y="560" width="120" height="60" as="geometry" />
+          <mxGeometry x="549.5" y="750" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="cHAEwdfpiLkEljMpGPID-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="cHAEwdfpiLkEljMpGPID-36" target="cHAEwdfpiLkEljMpGPID-32">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="cHAEwdfpiLkEljMpGPID-36" value="BMP280 Modülü ile Yükseklik Değeri" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="597.75" y="160" width="149.25" height="40" as="geometry" />
+          <mxGeometry x="452.75" y="350" width="149.25" height="40" as="geometry" />
         </mxCell>
         <mxCell id="cHAEwdfpiLkEljMpGPID-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="cHAEwdfpiLkEljMpGPID-39" target="cHAEwdfpiLkEljMpGPID-44">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="602" y="508" />
+              <mxPoint x="457" y="698" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -58,73 +58,73 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="cHAEwdfpiLkEljMpGPID-39" value="Yükseklik &amp;lt;1500m&lt;br&gt;&amp;amp;&amp;amp;&lt;br&gt;Roket Yönü Düşey" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="602" y="328" width="144" height="124" as="geometry" />
+          <mxGeometry x="457" y="518" width="144" height="124" as="geometry" />
         </mxCell>
         <mxCell id="cHAEwdfpiLkEljMpGPID-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="cHAEwdfpiLkEljMpGPID-41" target="cHAEwdfpiLkEljMpGPID-47">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="cHAEwdfpiLkEljMpGPID-41" value="Yükseklik &amp;lt;500m&lt;br&gt;&amp;amp;&amp;amp;&lt;br&gt;Roket Yönü Düşey" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="773.5" y="328" width="133" height="124" as="geometry" />
+          <mxGeometry x="628.5" y="518" width="133" height="124" as="geometry" />
         </mxCell>
         <mxCell id="cHAEwdfpiLkEljMpGPID-42" value="Evet" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="574" y="369" width="40" height="20" as="geometry" />
+          <mxGeometry x="429" y="559" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="cHAEwdfpiLkEljMpGPID-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="cHAEwdfpiLkEljMpGPID-44" target="cHAEwdfpiLkEljMpGPID-34">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="cHAEwdfpiLkEljMpGPID-44" value="1. Paraşüt Açılma Sistemini Tetikle" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="614" y="489" width="105" height="38" as="geometry" />
+          <mxGeometry x="469" y="679" width="105" height="38" as="geometry" />
         </mxCell>
         <mxCell id="cHAEwdfpiLkEljMpGPID-45" value="Hayır" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="744" y="367.5" width="40" height="20" as="geometry" />
+          <mxGeometry x="599" y="557.5" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="cHAEwdfpiLkEljMpGPID-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="cHAEwdfpiLkEljMpGPID-47" target="cHAEwdfpiLkEljMpGPID-34">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="cHAEwdfpiLkEljMpGPID-47" value="2. Paraşütü Açılma Sistemini Tetikle" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="785" y="488" width="110" height="39" as="geometry" />
+          <mxGeometry x="640" y="678" width="110" height="39" as="geometry" />
         </mxCell>
         <mxCell id="cHAEwdfpiLkEljMpGPID-48" value="Evet" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="798" y="440" width="40" height="20" as="geometry" />
+          <mxGeometry x="653" y="630" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="cHAEwdfpiLkEljMpGPID-51" value="BAŞLA" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="649" y="90" width="50" height="50" as="geometry" />
+          <mxGeometry x="504" y="280" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="cHAEwdfpiLkEljMpGPID-52" value="&lt;font style=&quot;font-size: 18px&quot;&gt;Aviyonik - Loop Fonksiyonu&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="190" y="60" width="230" height="20" as="geometry" />
+          <mxGeometry x="45" y="250" width="230" height="20" as="geometry" />
         </mxCell>
         <mxCell id="cHAEwdfpiLkEljMpGPID-53" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
-          <mxGeometry x="190" y="80" width="354" height="565.5" as="geometry" />
+          <mxGeometry x="45" y="270" width="354" height="565.5" as="geometry" />
         </mxCell>
         <mxCell id="cHAEwdfpiLkEljMpGPID-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="cHAEwdfpiLkEljMpGPID-55" target="cHAEwdfpiLkEljMpGPID-62">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="cHAEwdfpiLkEljMpGPID-55" value="MMA8451 3 Eksen Gyro Sensörü ile ivme" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="211.75" y="243" width="153.5" height="50" as="geometry" />
+          <mxGeometry x="66.75" y="433" width="153.5" height="50" as="geometry" />
         </mxCell>
         <mxCell id="cHAEwdfpiLkEljMpGPID-56" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="cHAEwdfpiLkEljMpGPID-57" target="cHAEwdfpiLkEljMpGPID-59">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="511" y="590" as="targetPoint" />
+            <mxPoint x="366" y="780" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="530" y="590" />
-              <mxPoint x="530" y="110" />
-              <mxPoint x="288" y="110" />
+              <mxPoint x="385" y="780" />
+              <mxPoint x="385" y="300" />
+              <mxPoint x="143" y="300" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="cHAEwdfpiLkEljMpGPID-57" value="Toplanan verileri Yer istasyonuna gönder" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="310.5" y="560" width="120" height="60" as="geometry" />
+          <mxGeometry x="165.5" y="750" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="cHAEwdfpiLkEljMpGPID-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="cHAEwdfpiLkEljMpGPID-59" target="cHAEwdfpiLkEljMpGPID-55">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="cHAEwdfpiLkEljMpGPID-59" value="NEO 7M GPS Modülü ile Yükseklik Değeri" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="225.37" y="160" width="126.25" height="40" as="geometry" />
+          <mxGeometry x="80.37" y="350" width="126.25" height="40" as="geometry" />
         </mxCell>
         <mxCell id="cHAEwdfpiLkEljMpGPID-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="cHAEwdfpiLkEljMpGPID-62" target="cHAEwdfpiLkEljMpGPID-67">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="218" y="508" />
+              <mxPoint x="73" y="698" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -132,37 +132,37 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="cHAEwdfpiLkEljMpGPID-62" value="Yükseklik &amp;lt;1500m&lt;br&gt;&amp;amp;&amp;amp;&lt;br&gt;Roket Yönü Düşey" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="218" y="328" width="144" height="124" as="geometry" />
+          <mxGeometry x="73" y="518" width="144" height="124" as="geometry" />
         </mxCell>
         <mxCell id="cHAEwdfpiLkEljMpGPID-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="cHAEwdfpiLkEljMpGPID-64" target="cHAEwdfpiLkEljMpGPID-70">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="cHAEwdfpiLkEljMpGPID-64" value="Yükseklik &amp;lt;500m&lt;br&gt;&amp;amp;&amp;amp;&lt;br&gt;Roket Yönü Düşey" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="389.5" y="328" width="133" height="124" as="geometry" />
+          <mxGeometry x="244.5" y="518" width="133" height="124" as="geometry" />
         </mxCell>
         <mxCell id="cHAEwdfpiLkEljMpGPID-65" value="Evet" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="190" y="369" width="40" height="20" as="geometry" />
+          <mxGeometry x="45" y="559" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="cHAEwdfpiLkEljMpGPID-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="cHAEwdfpiLkEljMpGPID-67" target="cHAEwdfpiLkEljMpGPID-57">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="cHAEwdfpiLkEljMpGPID-67" value="1. Paraşüt Açılma Sistemini Tetikle" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="230" y="489" width="105" height="38" as="geometry" />
+          <mxGeometry x="85" y="679" width="105" height="38" as="geometry" />
         </mxCell>
         <mxCell id="cHAEwdfpiLkEljMpGPID-68" value="Hayır" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="360" y="367.5" width="40" height="20" as="geometry" />
+          <mxGeometry x="215" y="557.5" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="cHAEwdfpiLkEljMpGPID-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="cHAEwdfpiLkEljMpGPID-70" target="cHAEwdfpiLkEljMpGPID-57">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="cHAEwdfpiLkEljMpGPID-70" value="2. Paraşütü Açılma Sistemini Tetikle" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="401" y="488.5" width="110" height="39" as="geometry" />
+          <mxGeometry x="256" y="678.5" width="110" height="39" as="geometry" />
         </mxCell>
         <mxCell id="cHAEwdfpiLkEljMpGPID-71" value="Evet" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="414" y="440" width="40" height="20" as="geometry" />
+          <mxGeometry x="269" y="630" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="cHAEwdfpiLkEljMpGPID-72" value="BAŞLA" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="265" y="90" width="50" height="50" as="geometry" />
+          <mxGeometry x="120" y="280" width="50" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
